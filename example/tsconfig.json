@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@focus8/expo-intent-broadcaster": ["../src/index"],
+      "@focus8/expo-intent-broadcaster/*": ["../src/*"]
+    }
+  }
+}
