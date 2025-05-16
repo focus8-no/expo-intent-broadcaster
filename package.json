@@ -14,6 +14,9 @@
     "expo-module": "expo-module",
     "open:android": "open -a \"Android Studio\" example/android"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "react-native",
     "expo",
@@ -28,11 +31,11 @@
     "url": "git+https://github.com/thomastho/expo-intent-broadcaster.git"
   },
   "bugs": {
-    "url": "https://github.com/thomastho/expo-intent-broadcaster/issues"
+    "url": "https://github.com/focus8-no/expo-intent-broadcaster/issues"
   },
-  "author": "Thomas Thorbjørnsen <thomas.thorbjornsen@gmail.com> (https://github.com/thomastho)",
+  "author": "Focus8 AS <kontakt@focus8.no> (https://github.com/focus8-no)",
   "license": "MIT",
-  "homepage": "https://github.com/thomastho/expo-intent-broadcaster#readme",
+  "homepage": "https://github.com/focus8-no/expo-intent-broadcaster#readme",
   "private": false,
   "dependencies": {},
   "devDependencies": {
